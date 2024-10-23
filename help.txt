@@ -1,0 +1,18 @@
+open anaconda prompt and run the following commands:
+(base) C:\Users\K SOWMYA SREE>conda activate project
+-------------------------------------------------------------------
+(project) C:\Users\K SOWMYA SREE>cd Notebook Path
+--------------------------------------------------------------------
+(project) C:\Users\K SOWMYA SREE\OneDrive\Desktop\project\ChronicKidneyDiseaseUpdated\Python Notebooks>jupyter notebook
+---------------------------------------------------------------------------------------------------------------------------------
+
+To run the flask app:
+-------------------------------------------------------------------------------------------------------------------
+(base) C:\Users\K SOWMYA SREE>conda activate project
+-------------------------------------------------------------------------------------------------------------------
+(project) C:\Users\K SOWMYA SREE>cd Flask app(app.py)path
+-------------------------------------------------------------------------------------------------------------------
+(project) C:\Users\K SOWMYA SREE\OneDrive\Desktop\project\ChronicKidneyDiseaseUpdated>python app.py
+---------------------------------------------------------------------------------------------------------------------
+copy and paste the http://127.0.0.1:8000 in the browser
+------------------------------------------------------------------------------------------------------------------
